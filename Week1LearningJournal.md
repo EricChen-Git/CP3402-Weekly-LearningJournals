@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=zFZrkCIc2Oc&t=3s
 **Estimated Hours:**
 Approximately 15 hours
 
-**Content Insights:**
+**Content Insights:**<br>
 During week 1, I reviewed the basics of HTML, CSS, and JavaScript through various online resources such as LinkedIn, W3Schools, and CS50w on YouTube. I also explored VS Code as my chosen code editor for the project and investigated Vagrant and Docker for potential future use in development. I created a static website using Bootstrap as a starting point and customized it for the startup business. I followed GitHub Pages' tutorials for publishing the website and organizing files in a "startup" folder. Additionally, I explored additional learning resources, including template-based learning and absorbing layout designs from various sources.
 Through these activities, I strengthened my foundational web design knowledge and applied Bootstrap framework skills in the development of the startup website. I also explored and integrated layout designs from various templates found online, enhancing the aesthetic appeal of the project. Exposure to diverse templates improved my understanding of effective layout and design principles. Actively utilizing Bootstrap for the startup project aligns with industry best practices, enhancing employability. The combination of foundational knowledge and practical application contributes to a holistic skill set.
 
