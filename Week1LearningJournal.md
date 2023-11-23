@@ -7,17 +7,14 @@ Week 1
 4. Created a static website using Bootstrap as a starting point and customized it for the startup business.
 5. Utilized GitHub Pages for hosting, leveraging my JCU email for a seamless setup.
 6. Followed GitHub Pages' tutorials for publishing the website and organizing files in a "startup" folder.
-7. Explored additional learning resources, including template-based learning and absorbing layout designs from various sources.
-
+7. Explored additional learning resources, including template-based learning and absorbing layout designs from various sources.<br>
 Watching linked-in learnng videos:
-https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/web-design-and-development-in-the-code-and-no-code-era?u=2223545
-
+https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/web-design-and-development-in-the-code-and-no-code-era?u=2223545<br>
 W3schools: 
 https://www.w3schools.com/html/default.asp
 https://www.w3schools.com/css/default.asp
 https://www.w3schools.com/js/default.asp
-https://www.w3schools.com/bootstrap5/index.php
-
+https://www.w3schools.com/bootstrap5/index.php<br>
 Youtube learning video CS50W: 
 https://www.youtube.com/watch?v=zFZrkCIc2Oc&t=3s
 
