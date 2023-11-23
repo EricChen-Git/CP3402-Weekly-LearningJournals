@@ -1,13 +1,22 @@
 Week 1
 
 **Learning Activities & Resources:**
-1. Reviewed HTML, CSS, and JavaScript basics through LearnJCU, W3Schools, and CS50w on YouTube.
+1. Reviewed HTML, CSS, and JavaScript basics through LinkedIn, W3Schools, and CS50w on YouTube.
 2. Explored VS Code as the chosen code editor for the project.
 3. Investigated Vagrant and Docker for potential future use in development.
 4. Created a static website using Bootstrap as a starting point and customized it for the startup business.
 5. Utilized GitHub Pages for hosting, leveraging my JCU email for a seamless setup.
 6. Followed GitHub Pages' tutorials for publishing the website and organizing files in a "startup" folder.
 7. Explored additional learning resources, including template-based learning and absorbing layout designs from various sources.
+Watching linked-in learnng videos:
+https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/web-design-and-development-in-the-code-and-no-code-era?u=2223545
+W3schools: 
+https://www.w3schools.com/html/default.asp
+https://www.w3schools.com/css/default.asp
+https://www.w3schools.com/js/default.asp
+https://www.w3schools.com/bootstrap5/index.php
+Youtube learning video CS50W: 
+https://www.youtube.com/watch?v=zFZrkCIc2Oc&t=3s
 
 **Estimated Hours:**
 Approximately 15 hours
